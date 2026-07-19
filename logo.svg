@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+ <title id="title">Taromeg Packaging</title><desc id="desc">Colourful sustainable packaging logo with people, leaves, an open package and a continuous pathway</desc>
+ <defs><linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#082B63"/><stop offset="1" stop-color="#1261E8"/></linearGradient><linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A8F95"/><stop offset="1" stop-color="#15B8AF"/></linearGradient><linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#E9B52D"/><stop offset="1" stop-color="#FF9500"/></linearGradient></defs>
+ <g transform="translate(35 25)">
+  <path d="M88 155V336l156 90 156-90V155l-47 35v118l-109 63-109-63V190Z" fill="url(#blue)"/>
+  <path d="M88 155 244 245 400 155 354 121 244 184 134 121Z" fill="#fff"/>
+  <path d="M57 430c71 70 150 37 187-29 37 66 116 99 187 29-62 15-114-8-154-61l-33 32-33-32c-40 53-92 76-154 61Z" fill="#082B63"/>
+  <path d="M244 401c37 66 116 99 187 29-62 15-114-8-154-61Z" fill="url(#teal)"/>
+  <path d="M244 277c-57-24-95-76-101-136 59 10 101 50 101 106Z" fill="#15933B"/>
+  <path d="M244 277c57-24 95-76 101-136-59 10-101 50-101 106Z" fill="#7BC900"/>
+  <path d="M244 318V204" stroke="#168E4A" stroke-width="12" stroke-linecap="round"/>
+  <path d="M244 204c-46-13-83-52-95-101 45 7 78 34 95 75Z" fill="#0D43A0"/>
+  <path d="M244 204c46-13 83-52 95-101-45 7-78 34-95 75Z" fill="#0AAEB0"/>
+  <circle cx="170" cy="78" r="26" fill="#0D43A0"/><circle cx="318" cy="78" r="26" fill="#0AAEB0"/>
+  <path d="M121 58c75-78 171-78 246 0" fill="none" stroke="url(#gold)" stroke-width="18" stroke-linecap="round"/>
+ </g>
+ <g font-family="Montserrat,Arial,Helvetica,sans-serif">
+  <text x="525" y="275" font-size="182" font-weight="800" letter-spacing="4" fill="#082B63">TAROMEG</text>
+  <path d="M682 268 708 220l26 48Z" fill="#FF9500"/>
+  <text x="545" y="390" font-size="78" font-weight="700" letter-spacing="28" fill="#0A9EA3">PACKAGING</text>
+ </g>
+</svg>
